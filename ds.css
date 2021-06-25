@@ -1,0 +1,10 @@
+.strike-through:checked + .stri{
+    text-decoration: line-through;
+}
+.list-group-item{
+    margin-left: 13px;
+    width: 95%;
+}
+#vehicle1{
+    margin-right: 10px;
+}
